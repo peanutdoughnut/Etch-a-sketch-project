@@ -1,0 +1,1 @@
+This is an Etch-a-sketch project created using javascript, CSS and HTML inorder to practice DOM manipulation.
