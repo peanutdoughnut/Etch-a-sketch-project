@@ -1,0 +1,1 @@
+In this project, I built an etch-a-sketch clone to practice DOM manipulation and css flexbox.THe languages used were HTML, CSS and JavaSCript
